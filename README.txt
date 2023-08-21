@@ -119,7 +119,7 @@ Supuesto de formato de entrada correcto:
 
   numero_decimal1;numero_decimal2
 
-  donde cada número es un número decimal cualquiera de formato float, el que puede ser tanto positivo como negativo (ej.: 2.0, 642.3136, -31,35, etc).
+  donde cada número es un número decimal cualquiera de formato float, el que puede ser tanto positivo como negativo (ej.: 2.0, 642.3136, -31.35, etc).
   Además se asume que los números proporcionados están en el rango válido para números decimales y que no contendrán caracteres numéricos ni especiales que puedan causar errores de análisis.
 
 
