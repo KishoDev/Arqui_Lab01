@@ -115,6 +115,7 @@ delete_aux_files():
 
 
 Supuesto de formato de entrada correcto:
+
   Se asume que las líneas en el archivo de entrada seguirán el formato específico 
 
   numero_decimal1;numero_decimal2
@@ -125,6 +126,7 @@ Supuesto de formato de entrada correcto:
 
 
 Consideraciones:
+
   La manera en el que se guardan los resultados lo hace con un orden en particular:
     1. resultados positivos.
     2. resultados negativos.
