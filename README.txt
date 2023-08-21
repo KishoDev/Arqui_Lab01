@@ -4,7 +4,7 @@ Nombre: Vicente Jorquera Gamonal
 Rol: 202173579-8
 Paralelo: 201
 
-Nombre: Vicente Galaz Rojas.
+Nombre: Vicente Galaz Rojas
 Rol: 202273554-6
 Paralelo: 200
 
